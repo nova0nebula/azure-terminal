@@ -1,4 +1,4 @@
-## 🌟 Azure Core Code of Conduct
+## 🌟 Azure Terminal Code of Conduct
 
 ### 📜 Our Pledge
 We, as contributors and maintainers of Azure Terminal, pledge to create an inclusive, welcoming, and respectful environment for everyone, regardless of experience level, background, or identity. We are committed to fostering a friendly community where collaboration and learning thrive.
