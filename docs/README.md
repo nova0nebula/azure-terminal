@@ -13,7 +13,7 @@
 ## 🎮 Usage
 To start Azure Terminal, run:
 ```sh
-./azure_terminal/core/main.py
+./core/main.py
 ```
 
 ## 🎨 Customization
