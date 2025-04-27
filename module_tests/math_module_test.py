@@ -16,6 +16,8 @@ def random_operator_generator():
         return "/"
     elif number == 4:
         return "%"
+    return None
+
 
 def math_module_tests():
     while True:
