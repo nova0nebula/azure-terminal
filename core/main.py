@@ -1,9 +1,11 @@
+# Python Importing
+
 # System Library Importing
 from system_library import Colour
 
 # Local Importing
-from azure_terminal.core.command_handling import execute_command
-from azure_terminal.config.config_handler import prompt_colour
+from core.command_handling import execute_command
+from config.config_handler import prompt_colour
 
 # Main Function
 def azure_terminal_main():

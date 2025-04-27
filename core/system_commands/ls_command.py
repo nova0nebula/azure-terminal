@@ -7,7 +7,7 @@ import time
 from system_library import Colour, Style
 
 # Config Importing
-from azure_terminal.config.config_handler import prompt_colour, output_colour
+from config.config_handler import prompt_colour, output_colour
 
 # Function to convert file mode to ls-style string (e.g., '-rw-r--r--')
 def get_permissions(mode):

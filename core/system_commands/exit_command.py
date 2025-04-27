@@ -1,8 +1,10 @@
+# Python Importing
+
 # System Library Importing
 from system_library import Colour
 
 # Config Importing
-from azure_terminal.config.config_handler import prompt_colour, output_colour
+from config.config_handler import prompt_colour, output_colour
 
 # System Command Execution
 def execute_exit(prompt):

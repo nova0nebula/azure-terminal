@@ -2,7 +2,7 @@
 import random
 
 # Local Importing
-from azure_terminal.modules.math_module import execute_math
+from modules.math_module import execute_math
 
 def random_operator_generator():
     number: int = random.randint(0,4)

@@ -41,6 +41,10 @@ All notable changes to Azure Terminal will be documented in this file. This proj
 ### Added
 - `echo` system command.
 
+# 1.2.3 - 27/04/2025 - Build #7
+### Fixed
+- Fixed bug in which nothing is working.
+
 ---
 
 ### Note:

@@ -1,9 +1,11 @@
+# Python Importing
+
 # System Library Importing
 from system_library import Format, Colour
 
 # Local Importing
-from azure_terminal.core.modules_importing import system_command_to_function_name, custom_module_command_to_function_name
-from azure_terminal.config.config_handler import error_colour, error_underline
+from core.modules_importing import system_command_to_function_name, custom_module_command_to_function_name
+from config.config_handler import error_colour, error_underline
 
 # Executing commands
 def execute_command(prompt: str):
