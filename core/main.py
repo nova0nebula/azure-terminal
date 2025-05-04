@@ -13,6 +13,6 @@ def azure_terminal_main():
         prompt: str = str(input(f"{prompt_colour}azure-core$ {Colour.RESET}")).strip()
         execute_command(prompt)
 
-# Calling main function
+# Calling the main function
 if __name__ == "__main__":
     azure_terminal_main()
